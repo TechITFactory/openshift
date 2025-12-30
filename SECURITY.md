@@ -5,7 +5,7 @@ We take security seriously and appreciate responsible disclosure.
 ## Reporting a Vulnerability
 
 - **Do not file public issues for security bugs.**
-- Email the maintainers at `security@techitfactory.example` or open a private security advisory in GitHub.
+- Open a private report using GitHub Security Advisories for this repository.
 - Include detailed reproduction steps, affected versions or commits, and any known mitigations.
 
 ## Response Expectations
