@@ -1,0 +1,7 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "https://www.contributor-covenant.org"
+    }
+  ]
+}
