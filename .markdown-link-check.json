@@ -2,6 +2,9 @@
   "ignorePatterns": [
     {
       "pattern": "https://www.contributor-covenant.org"
+    },
+    {
+      "pattern": "https://docs.openshift.com"
     }
   ]
 }

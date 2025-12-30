@@ -22,6 +22,7 @@ Modules:
 - [1.1: OpenShift Architecture Overview](./phase-01-architecture-install/README.md)
 - [1.2: Installation Planning & Sizing](./phase-01-architecture-install/README.md)
 - [1.3: Cluster Bring-up & Post-Install Validation](./phase-01-architecture-install/README.md)
+- [Module 02: Installation Scenarios](./phase-01-architecture-install/module-02-installation-scenarios/README.md)
 
 ## Phase 02: Core Operations
 
